@@ -1,1 +1,1 @@
-https://github.com/yandex-praktikum/ono-tebe-nado-ad
+https://github.com/echidnartem/ono-tebe-nado-ad
