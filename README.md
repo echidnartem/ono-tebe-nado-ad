@@ -1,1 +1,17 @@
-https://github.com/echidnartem/ono-tebe-nado-ad 
+# Оно тебе надо
+
+Лендинг для вымышленного аукциона. Учебный проект по вёрстке макета в Figma.
+
+---
+
+## 📋 О проекте
+
+Этот проект — первый серьёзный опыт вёрстки многостраничного (одностраничного) макета. Задача заключалась в точном воспроизведении дизайна по макету Figma, используя только HTML и CSS без сторонних библиотек и JavaScript.
+
+**Особенность:** проект представляет собой лендинг вымышленного аукциона с нестандартными лотами — фильмом, книгой и картиной, которые "никто не оценил". Стилизация выполнена в минималистичном, но выразительном стиле с акцентом на типографику и визуальные эффекты.
+
+## 🛠 Технологический стек
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
